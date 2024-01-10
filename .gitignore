@@ -2,3 +2,4 @@
 /.idea/
 TSDM_env/
 utils/__pycache__/
+**/.DS_Store
